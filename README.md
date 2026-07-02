@@ -2,7 +2,7 @@
 
 **CS undergrad @ Manipal University Jaipur** · I build full-stack + ML products for real problems.
 
-I like taking a model from a notebook all the way to something people can actually click — real hardware, real frontends, real deployments. Currently a **Robotics Engineer intern @ VimaanX** working with ROS, and an Embedded Developer with **IEEE RAS MUJ**.
+I like taking a model from a notebook all the way to something people can actually click — real hardware, real frontends, real deployments. Currently a **Robotics Engineer intern @ VimaanX** working with ROS
 
 -  Working on: applied ML + edge-AI that ships to production
 -  Currently learning: Docker/Kubernetes, C++ for DSA, and the ML engineering track
